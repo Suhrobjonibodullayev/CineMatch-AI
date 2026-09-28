@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎬 CineMatch AI — Intelligent Movie Recommender System
+# 🎬 CineMatch AI — Intelligent Movie Recommender System.
 
 An end-to-end Content-Based Movie Recommendation Engine built with **Scikit-learn**, **NLP**, and **Streamlit**.  
 Dynamically models multi-item user preference vectors in real-time to discover cinema tailored to your taste.
